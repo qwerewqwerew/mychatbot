@@ -2,7 +2,7 @@ import { useState } from "react"; // 01
 import "./App.css"; // 02
 
 //const API = "http://localhost:8000/chat";
-const API = "https://mychatbot-aee1.onrender.com/chat";
+const API = "https://chatbot-vitb.onrender.com/chat";
 
 export default function App() {
   // 04
